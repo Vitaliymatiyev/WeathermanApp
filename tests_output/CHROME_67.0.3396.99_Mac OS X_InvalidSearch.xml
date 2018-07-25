@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="InvalidSearch"
+    errors="0" failures="0" hostname="" id="" package="InvalidSearch" skipped="0"
+    tests="1" time="3.468" timestamp="Wed, 25 Jul 2018 04:00:17 GMT">
+  
+    <testcase name="Search Emptyfields" classname="InvalidSearch" time="3.468" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

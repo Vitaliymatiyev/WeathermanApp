@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="LocationSearch"
+    errors="0" failures="0" hostname="" id="" package="LocationSearch" skipped="0"
+    tests="2" time="2.705" timestamp="Wed, 25 Jul 2018 02:07:23 GMT">
+  
+    <testcase name="Verify NameTitle" classname="LocationSearch" time="1.877" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ZipCode Search" classname="LocationSearch" time="0.8280" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
